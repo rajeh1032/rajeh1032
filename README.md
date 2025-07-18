@@ -97,7 +97,7 @@ I'm a **Flutter Developer** with a passion for building scalable mobile applicat
 
 ### 🏆 **Achievements**
 
-- **Bachelor of Computer Science & Information Technology** – Sinai University, Egypt (Expected 2025).
+- **Bachelor of Computer Science & Information Technology** – Sinai University, Egypt (6 - 2025).
 - Completed advanced courses in **Flutter**, **BLoC**, and **Clean Architecture** from **Route Academy**, **DEPI**, and **ITI**.
 - Developed multiple mobile applications and integrated third-party libraries and APIs for optimized performance and user experience.
 - **Quickdraw**: Awarded for making fast actions on GitHub, showcasing responsiveness in contributions.
