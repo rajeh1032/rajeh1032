@@ -76,9 +76,8 @@ I'm a **Flutter Developer** with a passion for building scalable mobile applicat
 
 ### 📈 **GitHub Stats**
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeh1032&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ahmed Rajeh" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=rajeh1032&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Rajeh&show_icons=true&layout=compact&theme=radical" alt="Marco Nagy" />
