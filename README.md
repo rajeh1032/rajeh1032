@@ -8,6 +8,24 @@
 
 ---
 
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=rajeh1032&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajeh1032&theme=radical&hide_border=true)<br/>
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeh1032&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+---
+
+---
+
 ### 🚀 **About Me**
 
 I'm a **Flutter Developer** with a passion for building scalable mobile applications that provide smooth and efficient user experiences. I have worked on both **iOS** and **Android** platforms, leveraging the power of **Flutter** and **Dart**. I am always eager to learn new technologies and continuously enhance my skills.
@@ -70,23 +88,7 @@ I'm a **Flutter Developer** with a passion for building scalable mobile applicat
 
 
 
----
 
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=rajeh1032&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajeh1032&theme=radical&hide_border=true)<br/>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeh1032&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
----
 
 
 
