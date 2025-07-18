@@ -74,7 +74,7 @@ I'm a **Flutter Developer** with a passion for building scalable mobile applicat
 
 
 
-### 📈 **GitHub Stats**
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=rajeh1032&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
