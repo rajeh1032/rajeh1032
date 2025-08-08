@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Rajeh</h1>
 
-<h3 align="center">Mobile App Developer | Flutter Developer  | Tech Learner</h3>
+<h3 align="center">Mobile App Developer | Flutter Developer </h3>
 <p align="Left">
   <img src="https://komarev.com/ghpvc/?username=rajeh1032&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
@@ -37,6 +37,7 @@ I'm a **Flutter Developer** with a passion for building scalable mobile applicat
 
 ---
 ---
+
 
 
 ### 🛠️ **Technologies & Tools**
